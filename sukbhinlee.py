@@ -11,3 +11,5 @@
 
 print("실습")
 print("완료")
+
+print('test')
